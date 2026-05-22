@@ -1,0 +1,6 @@
+{
+  "name": "Raja Rani Stitching Academy",
+  "description": "India's #1 Boutique & Tailoring coaching portal with custom interactive courses disk, neon Gen-Z styling, and 24/7 AI tutor support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
